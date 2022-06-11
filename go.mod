@@ -1,4 +1,4 @@
-module  github.com//heco-chain
+module  github.com/alex403s/heco-chain
 
 go 1.15
 
