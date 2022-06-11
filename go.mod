@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module  github.com/stars-labs/heco-chain
 
 go 1.15
 
