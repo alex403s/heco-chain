@@ -1,4 +1,4 @@
-module  github.com/stars-labs/heco-chain
+module  github.com//heco-chain
 
 go 1.15
 
